@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Editors and local temporary files
+.vscode/
+.idea/
+.codex/
+*.swp
+*~
+
+# 原始附件：仅保留在本地回查，不随公开仓库提交
+00-源文件/
