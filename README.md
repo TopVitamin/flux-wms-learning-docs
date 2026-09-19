@@ -199,7 +199,7 @@
 
 ```bash
 git status --short
-git add README.md .gitignore 00-核心业务语义索引.md 01-按章节拆分的md文件 02-按章节拆分的流程图 03-WMS的数据表按章节拆分 04-WMS产品设计精华知识借鉴 05-WMS的字段设计参考借鉴
+git add README.md .gitignore 00-核心业务语义索引.md "01-按章节拆分的md文件（1119页版本）" 02-按章节拆分的流程图 03-WMS的数据表按章节拆分 04-WMS产品设计精华知识借鉴 05-WMS的字段设计参考借鉴 06-1119版与500多页版按章节比对.md
 git commit -m "docs: initialize Fuller WMS analysis project"
 git remote add origin <你的 GitHub 仓库地址>
 git push -u origin main
